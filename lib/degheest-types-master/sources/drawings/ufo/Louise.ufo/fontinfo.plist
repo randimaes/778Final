@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1200</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>descender</key>
+	<integer>-500</integer>
+	<key>familyName</key>
+	<string>Louise</string>
+	<key>guidelines</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<real>48.083</real>
+			<key>x</key>
+			<integer>503</integer>
+			<key>y</key>
+			<integer>664</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>583</integer>
+			<key>y</key>
+			<integer>187</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>294</integer>
+			<key>y</key>
+			<integer>306</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>256</integer>
+			<key>y</key>
+			<integer>581</integer>
+		</dict>
+	</array>
+	<key>openTypeHeadCreated</key>
+	<string>2020/06/17 14:36:55</string>
+	<key>openTypeNameLicense</key>
+	<string>SIL OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Velvetyne Type Foundry</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.velvetyne.fr/</string>
+	<key>openTypeNameRecords</key>
+	<array>
+		<dict>
+			<key>encodingID</key>
+			<integer>1</integer>
+			<key>languageID</key>
+			<integer>1036</integer>
+			<key>nameID</key>
+			<integer>9</integer>
+			<key>platformID</key>
+			<integer>3</integer>
+			<key>string</key>
+			<string>Ange Degheest &amp; Luna Delabre &amp; Camille Depalle</string>
+		</dict>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>VTF</string>
+	<key>postscriptBlueValues</key>
+	<array/>
+	<key>postscriptFontName</key>
+	<string>Louise-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>500</integer>
+</dict>
+</plist>

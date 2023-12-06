@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde.ss01" format="2">
+	<advance width="700"/>
+	<outline>
+		<contour>
+			<point x="200" y="700" type="line"/>
+			<point x="100" y="700" type="line"/>
+			<point x="100" y="0" type="line"/>
+			<point x="200" y="0" type="line"/>
+			<point x="200" y="400" type="line"/>
+			<point x="300" y="400" type="line"/>
+			<point x="300" y="500" type="line"/>
+			<point x="200" y="500" type="line"/>
+		</contour>
+		<contour>
+			<point x="500" y="300" type="line"/>
+			<point x="400" y="300" type="line"/>
+			<point x="400" y="200" type="line"/>
+			<point x="500" y="200" type="line"/>
+			<point x="500" y="0" type="line"/>
+			<point x="600" y="0" type="line"/>
+			<point x="600" y="700" type="line"/>
+			<point x="500" y="700" type="line"/>
+		</contour>
+		<contour>
+			<point x="400" y="400" type="line"/>
+			<point x="300" y="400" type="line"/>
+			<point x="300" y="300" type="line"/>
+			<point x="400" y="300" type="line"/>
+		</contour>
+		<contour>
+			<point x="200" y="900" type="line"/>
+			<point x="200" y="800" type="line"/>
+			<point x="300" y="800" type="line"/>
+			<point x="300" y="900" type="line"/>
+		</contour>
+		<contour>
+			<point x="300" y="1000" type="line"/>
+			<point x="300" y="900" type="line"/>
+			<point x="400" y="900" type="line"/>
+			<point x="400" y="1000" type="line"/>
+		</contour>
+		<contour>
+			<point x="400" y="900" type="line"/>
+			<point x="400" y="800" type="line"/>
+			<point x="500" y="800" type="line"/>
+			<point x="500" y="900" type="line"/>
+		</contour>
+		<contour>
+			<point x="500" y="1000" type="line"/>
+			<point x="500" y="900" type="line"/>
+			<point x="600" y="900" type="line"/>
+			<point x="600" y="1000" type="line"/>
+		</contour>
+	</outline>
+</glyph>

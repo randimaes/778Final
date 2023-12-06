@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>familyName</key>
+	<string>Director</string>
+	<key>openTypeHeadCreated</key>
+	<string>2020/01/31 09:50:53</string>
+	<key>openTypeNameDesigner</key>
+	<string>Ange Degheest &amp; May Jolivet &amp; Justine Herbel </string>
+	<key>openTypeNameDesignerURL</key>
+	<string>https://justineherbel.com/</string>
+	<key>openTypeNameLicense</key>
+	<string>SIL OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Velvetyne Type Foundry</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.velvetyne.fr/</string>
+	<key>openTypeOS2VendorID</key>
+	<string>VTF</string>
+	<key>postscriptBlueValues</key>
+	<array/>
+	<key>postscriptFontName</key>
+	<string>Director-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>500</integer>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="product" format="2">
+	<advance width="934"/>
+	<unicode hex="220F"/>
+	<outline>
+		<contour>
+			<point x="504" y="-11" type="line"/>
+			<point x="588" y="133"/>
+			<point x="1023" y="875"/>
+			<point x="1088" y="989" type="curve"/>
+			<point x="1062" y="1005" type="line"/>
+			<point x="1062" y="1004" type="line"/>
+			<point x="934" y="784"/>
+			<point x="557" y="141"/>
+			<point x="477" y="3" type="curve"/>
+		</contour>
+		<contour>
+			<point x="327" y="0" type="line"/>
+			<point x="411" y="144"/>
+			<point x="846" y="886"/>
+			<point x="911" y="1000" type="curve"/>
+			<point x="885" y="1016" type="line"/>
+			<point x="885" y="1015" type="line"/>
+			<point x="757" y="795"/>
+			<point x="380" y="152"/>
+			<point x="300" y="14" type="curve"/>
+		</contour>
+		<contour>
+			<point x="494" y="987" type="line"/>
+			<point x="500" y="988"/>
+			<point x="1424" y="988"/>
+			<point x="1432" y="988" type="curve"/>
+			<point x="1431" y="1016" type="line"/>
+			<point x="1424" y="1016"/>
+			<point x="501" y="1016"/>
+			<point x="494" y="1016" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

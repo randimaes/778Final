@@ -1,0 +1,59 @@
+body{
+    font-family: 'Goudy Bookletter 1911', serif;
+}
+p{
+    font-size:20px;
+}
+
+h1{
+    font-family:'CustomFont', sans-serif;
+    font-size:xx-small;
+    color: #4fa7c6;
+     
+
+}
+
+#mapid{
+  width: 1500px;;
+  height:500px;
+}
+
+
+
+.image-container {
+    width: 500px;
+    height: 300px;
+    overflow: hidden;
+  }
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .blue-text {
+    color: rgb(0, 145, 255);
+  }
+
+  .background-item{
+    object-fit:cover ;
+
+  }
+
+  @font-face {
+    font-family: 'CustomFont';
+    src: url('../lib/degheest-types-master/fonts/ttf/Director-Regular.ttf') format('woff');
+    /* Add other font formats and styles if needed */
+  }
+  
+ .author{
+  font-size:20px;
+    font-family: 'CustomFont',CustomFont;
+    color: #4fa7c6;
+ }
+
+ 
+  
+
+ 

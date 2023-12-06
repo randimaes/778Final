@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucircumflex" format="2">
+	<advance width="700"/>
+	<unicode hex="00DB"/>
+	<outline>
+		<contour>
+			<point x="500" y="500" type="line"/>
+			<point x="400" y="500" type="line"/>
+			<point x="400" y="100" type="line"/>
+			<point x="500" y="100" type="line"/>
+			<point x="500" y="0" type="line"/>
+			<point x="600" y="0" type="line"/>
+			<point x="600" y="100" type="line"/>
+			<point x="500" y="100" type="line"/>
+		</contour>
+		<contour>
+			<point x="200" y="300" type="line"/>
+			<point x="100" y="300" type="line"/>
+			<point x="100" y="100" type="line"/>
+			<point x="200" y="100" type="line"/>
+			<point x="200" y="0" type="line"/>
+			<point x="400" y="0" type="line"/>
+			<point x="400" y="100" type="line"/>
+			<point x="200" y="100" type="line"/>
+		</contour>
+		<contour>
+			<point x="200" y="500" type="line"/>
+			<point x="200" y="300" type="line"/>
+			<point x="300" y="300" type="line"/>
+			<point x="300" y="500" type="line"/>
+		</contour>
+		<contour>
+			<point x="100" y="500" type="line"/>
+			<point x="200" y="500" type="line"/>
+			<point x="200" y="600" type="line"/>
+			<point x="100" y="600" type="line"/>
+		</contour>
+		<contour>
+			<point x="0" y="400" type="line"/>
+			<point x="100" y="400" type="line"/>
+			<point x="100" y="500" type="line"/>
+			<point x="0" y="500" type="line"/>
+		</contour>
+		<contour>
+			<point x="600" y="200" type="line"/>
+			<point x="600" y="100" type="line"/>
+			<point x="700" y="100" type="line"/>
+			<point x="700" y="200" type="line"/>
+		</contour>
+		<component base="circumflex" yOffset="100"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>6</integer>
+					<key>name</key>
+					<string>circumflex</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

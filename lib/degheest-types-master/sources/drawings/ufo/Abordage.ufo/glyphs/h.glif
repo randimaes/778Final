@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h" format="2">
+	<advance width="588"/>
+	<unicode hex="0068"/>
+	<outline>
+		<contour>
+			<point x="60" y="0" type="line"/>
+			<point x="146" y="0" type="line"/>
+			<point x="146" y="800" type="line"/>
+			<point x="60" y="800" type="line"/>
+		</contour>
+		<component base="n"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>n</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>n</string>
+		</dict>
+	</lib>
+</glyph>

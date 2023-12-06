@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex" format="2">
+	<advance width="332"/>
+	<unicode hex="00EE"/>
+	<outline>
+		<contour>
+			<point x="10" y="0" type="line"/>
+			<point x="332" y="0" type="line"/>
+			<point x="332" y="4" type="line"/>
+			<point x="331" y="5"/>
+			<point x="227" y="35"/>
+			<point x="227" y="35" type="curve"/>
+			<point x="227" y="508" type="line"/>
+			<point x="220" y="509" type="line"/>
+			<point x="161" y="479"/>
+			<point x="74" y="452"/>
+			<point x="10" y="435" type="curve"/>
+			<point x="10" y="429" type="line"/>
+			<point x="115" y="418" type="line"/>
+			<point x="115" y="35" type="line"/>
+			<point x="10" y="4" type="line"/>
+		</contour>
+		<component base="circumflex" xOffset="-55"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>circumflex</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

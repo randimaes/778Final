@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde.ss01" format="2">
+	<advance width="700"/>
+	<outline>
+		<contour>
+			<point x="300" y="1000" type="line"/>
+			<point x="300" y="900" type="line"/>
+			<point x="400" y="900" type="line"/>
+			<point x="400" y="1000" type="line"/>
+			<point x="300" y="1000" type="line"/>
+			<point x="300" y="1100" type="line"/>
+			<point x="200" y="1100" type="line"/>
+			<point x="200" y="1000" type="line"/>
+		</contour>
+		<contour>
+			<point x="400" y="1100" type="line"/>
+			<point x="400" y="1000" type="line"/>
+			<point x="500" y="1000" type="line"/>
+			<point x="500" y="1100" type="line"/>
+		</contour>
+		<contour>
+			<point x="100" y="1000" type="line"/>
+			<point x="100" y="900" type="line"/>
+			<point x="200" y="900" type="line"/>
+			<point x="200" y="1000" type="line"/>
+		</contour>
+		<component base="N"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>N</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

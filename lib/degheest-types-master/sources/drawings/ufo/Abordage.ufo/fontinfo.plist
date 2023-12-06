@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>descender</key>
+	<integer>-260</integer>
+	<key>familyName</key>
+	<string>Abordage</string>
+	<key>openTypeHeadCreated</key>
+	<string>2021/02/06 23:42:33</string>
+	<key>openTypeHheaAscender</key>
+	<integer>750</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-250</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>100</integer>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://xn--eugniebidaut-deb.eu/</string>
+	<key>openTypeNameLicense</key>
+	<string>SIL OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Velvetyne Type Foundry</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.velvetyne.fr/</string>
+	<key>openTypeNameRecords</key>
+	<array>
+		<dict>
+			<key>encodingID</key>
+			<integer>1</integer>
+			<key>languageID</key>
+			<integer>1036</integer>
+			<key>nameID</key>
+			<integer>9</integer>
+			<key>platformID</key>
+			<integer>3</integer>
+			<key>string</key>
+			<string>Ange Degheest &amp; Eugénie Bidaut</string>
+		</dict>
+	</array>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>50</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>50</integer>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>800</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-280</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>100</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>VTF</string>
+	<key>openTypeOS2WinAscent</key>
+	<integer>820</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>285</integer>
+	<key>postscriptBlueValues</key>
+	<array/>
+	<key>postscriptFontName</key>
+	<string>Abordage-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-100</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>500</integer>
+</dict>
+</plist>

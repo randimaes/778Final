@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="blackNib" format="2">
+	<advance width="700"/>
+	<unicode hex="2712"/>
+	<outline>
+		<contour>
+			<point x="563" y="-6" type="line"/>
+			<point x="360" y="201" type="line"/>
+			<point x="358" y="200"/>
+			<point x="356" y="200"/>
+			<point x="354" y="200" type="curve" smooth="yes"/>
+			<point x="332" y="200"/>
+			<point x="316" y="216"/>
+			<point x="316" y="238" type="curve" smooth="yes"/>
+			<point x="316" y="260"/>
+			<point x="332" y="276"/>
+			<point x="354" y="276" type="curve" smooth="yes"/>
+			<point x="376" y="276"/>
+			<point x="392" y="260"/>
+			<point x="392" y="238" type="curve" smooth="yes"/>
+			<point x="392" y="235"/>
+			<point x="392" y="233"/>
+			<point x="391" y="231" type="curve"/>
+			<point x="595" y="24" type="line"/>
+			<point x="495" y="327" type="line"/>
+			<point x="306" y="417" type="line"/>
+			<point x="172" y="284" type="line"/>
+			<point x="263" y="94" type="line"/>
+		</contour>
+		<contour>
+			<point x="232" y="493" type="line"/>
+			<point x="98" y="360" type="line"/>
+			<point x="129" y="326" type="line"/>
+			<point x="263" y="460" type="line"/>
+		</contour>
+	</outline>
+</glyph>

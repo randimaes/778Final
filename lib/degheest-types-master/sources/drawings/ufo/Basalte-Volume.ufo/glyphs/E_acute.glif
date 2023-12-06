@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eacute" format="2">
+	<advance width="528"/>
+	<unicode hex="00C9"/>
+	<unicode hex="00E9"/>
+	<outline>
+		<contour>
+			<point x="359" y="924" type="line"/>
+			<point x="256" y="786" type="line"/>
+			<point x="242" y="707" type="line"/>
+			<point x="314" y="800" type="line"/>
+		</contour>
+		<component base="E"/>
+	</outline>
+</glyph>

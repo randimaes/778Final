@@ -1,0 +1,46 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+feature aalt {
+# automatic
+feature ordn;
+feature ss01;
+} aalt;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature ss01 {
+# automatic
+sub Aacute by Aacute.ss01;
+sub Acircumflex by Acircumflex.ss01;
+sub Adieresis by Adieresis.ss01;
+sub Agrave by Agrave.ss01;
+sub Aring by Aring.ss01;
+sub Atilde by Atilde.ss01;
+sub Eacute by Eacute.ss01;
+sub Ecircumflex by Ecircumflex.ss01;
+sub Edieresis by Edieresis.ss01;
+sub Egrave by Egrave.ss01;
+sub Iacute by Iacute.ss01;
+sub Icircumflex by Icircumflex.ss01;
+sub Idieresis by Idieresis.ss01;
+sub Igrave by Igrave.ss01;
+sub Ntilde by Ntilde.ss01;
+sub Oacute by Oacute.ss01;
+sub Ocircumflex by Ocircumflex.ss01;
+sub Odieresis by Odieresis.ss01;
+sub Ograve by Ograve.ss01;
+sub Otilde by Otilde.ss01;
+sub Uacute by Uacute.ss01;
+sub Ucircumflex by Ucircumflex.ss01;
+sub Udieresis by Udieresis.ss01;
+sub Ugrave by Ugrave.ss01;
+sub Yacute by Yacute.ss01;
+sub Ydieresis by Ydieresis.ss01;
+sub Ygrave by Ygrave.ss01;
+} ss01;
+

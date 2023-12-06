@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="2">
+	<advance width="350"/>
+	<unicode hex="02C6"/>
+	<anchor x="175" y="800" name="_top"/>
+	<outline>
+		<contour>
+			<point x="57" y="800" type="line"/>
+			<point x="138" y="800" type="line"/>
+			<point x="175" y="877" type="line"/>
+			<point x="212" y="800" type="line"/>
+			<point x="295" y="800" type="line"/>
+			<point x="249" y="924" type="line"/>
+			<point x="103" y="924" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>55-</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="VTF" format="2">
+	<advance width="1276"/>
+	<guideline x="1226" y="570" angle="270"/>
+	<guideline x="50" y="520" angle="270"/>
+	<guideline x="765" y="601" angle="0"/>
+	<outline>
+		<contour>
+			<point x="605" y="400" type="line"/>
+			<point x="699" y="400" type="line"/>
+			<point x="699" y="718" type="line"/>
+			<point x="1226" y="718" type="line"/>
+			<point x="1226" y="800" type="line"/>
+			<point x="50" y="800" type="line"/>
+			<point x="50" y="718" type="line"/>
+			<point x="605" y="718" type="line"/>
+		</contour>
+		<contour>
+			<point x="213" y="130" type="line"/>
+			<point x="343" y="130" type="line"/>
+			<point x="494" y="577" type="line"/>
+			<point x="412" y="607" type="line"/>
+			<point x="265" y="168" type="line"/>
+			<point x="298" y="169" type="line"/>
+			<point x="143" y="607" type="line"/>
+			<point x="54" y="577" type="line"/>
+		</contour>
+		<contour>
+			<point x="880" y="130" type="line"/>
+			<point x="973" y="130" type="line"/>
+			<point x="973" y="303" type="line"/>
+			<point x="1177" y="303" type="line"/>
+			<point x="1177" y="385" type="line"/>
+			<point x="973" y="385" type="line"/>
+			<point x="973" y="519" type="line"/>
+			<point x="1226" y="519" type="line"/>
+			<point x="1226" y="601" type="line"/>
+			<point x="880" y="601" type="line"/>
+		</contour>
+		<component base="anchor" xOffset="231" yOffset="-276"/>
+	</outline>
+</glyph>

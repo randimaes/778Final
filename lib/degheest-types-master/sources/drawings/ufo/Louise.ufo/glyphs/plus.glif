@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="2">
+	<advance width="673"/>
+	<unicode hex="002B"/>
+	<guideline x="719" y="524" angle="0"/>
+	<guideline x="692" y="321" angle="0"/>
+	<guideline x="642" y="36" angle="0"/>
+	<outline>
+		<contour>
+			<point x="287" y="36" type="line"/>
+			<point x="322" y="36" type="line"/>
+			<point x="568" y="470" type="line"/>
+			<point x="534" y="470" type="line"/>
+		</contour>
+		<contour>
+			<point x="209" y="253" type="line"/>
+			<point x="668" y="253" type="line"/>
+			<point x="668" y="285" type="line"/>
+			<point x="209" y="285" type="line"/>
+		</contour>
+	</outline>
+</glyph>

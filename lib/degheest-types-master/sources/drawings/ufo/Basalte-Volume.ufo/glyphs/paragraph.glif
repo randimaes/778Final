@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="paragraph" format="2">
+	<advance width="655"/>
+	<unicode hex="00B6"/>
+	<outline>
+		<contour>
+			<point x="269" y="682" type="line"/>
+			<point x="269" y="0" type="line"/>
+			<point x="369" y="0" type="line"/>
+			<point x="369" y="800" type="line"/>
+		</contour>
+		<component base="I" xOffset="360"/>
+	</outline>
+</glyph>

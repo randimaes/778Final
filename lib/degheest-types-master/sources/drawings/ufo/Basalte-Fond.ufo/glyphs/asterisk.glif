@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="2">
+	<advance width="421"/>
+	<unicode hex="002A"/>
+	<outline>
+		<contour>
+			<point x="171" y="562" type="line"/>
+			<point x="242" y="562" type="line"/>
+			<point x="242" y="622" type="line"/>
+			<point x="171" y="622" type="line"/>
+		</contour>
+		<component base="bout_aster" xScale="0.5736" xyScale="0.8191" yScale="0.5736" yxScale="-0.8191" xOffset="551" yOffset="74"/>
+		<component base="bout_aster" xScale="0.9659" xyScale="-0.2588" yScale="0.9659" yxScale="0.2588" xOffset="-161" yOffset="110"/>
+		<component base="bout_aster" xScale="-0.5736" xyScale="0.8192" yScale="0.5736" yxScale="0.8192" xOffset="-122" yOffset="74"/>
+		<component base="bout_aster" xScale="0" xyScale="-1" yScale="0" yxScale="1" xOffset="-370" yOffset="840"/>
+		<component base="bout_aster" xScale="-0.9659" xyScale="-0.2588" yScale="0.9659" yxScale="-0.2588" xOffset="582" yOffset="110"/>
+	</outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply" format="2">
+	<advance width="414"/>
+	<unicode hex="00D7"/>
+	<outline>
+		<component base="minus" xScale="-0.7071" xyScale="0.7071" yScale="0.7071" yxScale="0.7071" xOffset="148" yOffset="-81"/>
+		<component base="minus" xScale="0.7071" xyScale="0.7071" yScale="0.7071" yxScale="-0.7071" xOffset="266" yOffset="-81"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>minus</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>minus</string>
+		</dict>
+	</lib>
+</glyph>
